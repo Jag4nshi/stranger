@@ -55,11 +55,15 @@
   opacity: 1;
   bottom: 25px;
 }
+.text{
+  font-family: 'Poppins', sans-serif;
+}
 .h1{
-  font-size: 80px;
+  font-size: 200px;
   color: #000;
 }
 .p{
   font-size: 20px;
   color: #000;
+  margin-top: 10px;
 }
