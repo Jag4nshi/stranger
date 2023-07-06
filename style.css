@@ -7,15 +7,18 @@
 .container{
   width: 100%;
   height: 100vh;
-  background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(https://raw.githubusercontent.com/Jag4nshi/iamanonymous/main/background.jpg);
-  text-align: center;
+  background: #f2e9ff;
+  display: flex;
   align-items: center;
   justify-content: center;
-  background-size: cover;
-  background-position: center;
 }
 .gallery{
   display: flex;
   align-items: center;
   justify-content: center;
 }
+.img-box{
+  width: 100px;
+  height: 500px;
+}
+  
