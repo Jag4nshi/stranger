@@ -55,13 +55,13 @@
   opacity: 1;
   bottom: 25px;
 }
-.h1{
+h1{
   font-size: 80px;
   position: absolute;
   text-align: left;
   color: #000;
 }
-.p {
+p{
   font-size: 20px;
   position: absolute;
   text-align: left;
