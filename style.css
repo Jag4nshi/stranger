@@ -20,5 +20,19 @@
 .img-box{
   width: 100px;
   height: 500px;
+  margin: 10px;
+  border-radius: 50px;
+  background: url(https://raw.githubusercontent.com/Jag4nshi/stranger/main/IMG%2001.jpg);
+  background-size: cover;
+  background-position: center;
 }
-  
+.img-box:nth-child(2){
+  background: url(https://raw.githubusercontent.com/Jag4nshi/stranger/main/IMG%2002.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.img-box:nth-child(3){
+  background: url(https://raw.githubusercontent.com/Jag4nshi/stranger/main/IMG%2003.jpg);
+  background-size: cover;
+  background-position: center;
+}
