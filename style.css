@@ -60,20 +60,20 @@
   bottom: 25px;
 }
 .text h1{
-  font-size: 80px;
+  font-size: 70px;
   margin-right: 50px;
   font-family: Times New Roman;
 }
 .text p{
-  font-size: 20px;
+  font-size: 30px;
   margin-top: 10px;
-  margin-left: 5px;
+  margin-left: 15px;
   font-family: Times New Roman;
 }
 .text p:nth-child(3){
   font-size: 15px;
   margin-top: 50px;
-  margin-left: 5px;
+  margin-left: 15px;
   font-family: Times New Roman;
   opacity: 0.7;
 }
