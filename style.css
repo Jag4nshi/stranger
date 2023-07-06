@@ -11,5 +11,11 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  background-size: cover;
+  background-position: center;
 }
-  
+.gallery{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
